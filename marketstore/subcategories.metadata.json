@@ -1,0 +1,1 @@
+{"options":{},"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"},{"v":{"$numberInt":"2"},"unique":true,"key":{"heading":{"$numberInt":"1"}},"name":"heading_1","background":true},{"v":{"$numberInt":"2"},"unique":true,"key":{"menu_items.text":{"$numberInt":"1"}},"name":"menu_items.text_1","background":true}],"uuid":"7897c7ccc2db47308cf64947358c47aa"}
